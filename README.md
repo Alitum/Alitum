@@ -6,10 +6,6 @@
 
 ## ⭐ Information about my GitHub account
 <a href="https://github.com/Alitum">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alitum&theme=react&line_height=40&hide=css" />
-</a>
-
-<a href="https://github.com/Alitum">
  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alitum&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
