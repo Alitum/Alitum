@@ -1,7 +1,6 @@
 ## 📖 About me
-    💜 Hello, my name is Alice!
+    💜 Hello, my nickname is Alitum!
 - 💻 &nbsp; I starting programming about two years ago, but I dedicate myself every day to learning.  
-- 🌱 &nbsp; I'm currently focused on back-end, but I have a little experience in front-end
 ---
 
 ## ⭐ Information about my GitHub account
