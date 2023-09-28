@@ -1,6 +1,7 @@
 ## 📖 About me
     💜 Hello, my nickname is Alitum!
-- 💻 &nbsp; I starting programming about two years ago, but I dedicate myself every day to learning.  
+- 💻 &nbsp; I starting programming about two years ago, but I dedicate myself every day to learning.
+- ✍️ &nbsp; Currently studying Java
 ---
 
 ## ⭐ Information about my GitHub account
